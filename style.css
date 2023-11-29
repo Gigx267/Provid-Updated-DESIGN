@@ -1,28 +1,4 @@
-/*
-Theme Name: Telly Hotel
-Theme URI: 
-Author: 
-Author URI: 
-Description: Telly Hotel is specially designed product packaged for Telly Hotel by TemplatesJungle.
-Version: 
-*/
 
-/*--------------------------------------------------------------
-This is main CSS file that contains custom style rules used in this template
---------------------------------------------------------------*/
-
-/*------------------------------------*\
-    Table of contents
-\*------------------------------------*/
-
-/*------------------------------------------------
-
-CSS STRUCTURE:
-
-    
-/*--------------------------------------------------------------
-/** 1. VARIABLES
---------------------------------------------------------------*/
 :root {
   --accent-color: #333;
   --black-color: #000;
@@ -825,11 +801,11 @@ a.text-hover:focus:after {
 /* - Acheivement
 ------------------------------------------------------------- */
 #achievements .counter-number h5>.number-item {
-  font-size: 5.9em;
+  font-size: 2.9em;
 }
 
 #achievements .counter-number span.digital-item {
-  font-size: 4.5em;
+  font-size: 2.5em;
 }
 
 #achievements .counter-info p {
@@ -927,7 +903,7 @@ a.text-hover:focus:after {
 }
 
 .booking-form .datetime-container button span.month-day {
-  font-size: 5.5em;
+  font-size: 2.5em;
   font-family: var(--heading-font);
   width: 50%;
 }
@@ -939,7 +915,7 @@ a.text-hover:focus:after {
 }
 
 .booking-form .datetime-container span {
-  font-size: 18px;
+  font-size: 10px;
 }
 
 .datetime-container button span.week-day {
@@ -980,7 +956,7 @@ a.text-hover:focus:after {
 }
 
 .booking-form input.booking {
-  font-size: 5.5em;
+  font-size: 2.5em;
   font-family: var(--heading-font);
   color: var(--dark-color) !important;
   border: none;
